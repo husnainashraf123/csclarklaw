@@ -3814,11 +3814,15 @@ list-style: disc outside none;
 margin: 0 0 10px 34px;
 }
 
-.sidebar-links li-blog a {
+.sidebar-links-blog li a {
 color: #000000;
 font-family: 'Lato',sans-serif;
 font-size: 16px;
 font-weight: normal;
+}
+.back-image-hammer{
+  float: right;
+  margin-right: 10px;
 }
 
 @-moz-keyframes blinker {  

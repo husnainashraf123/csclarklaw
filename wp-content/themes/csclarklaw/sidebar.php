@@ -9,7 +9,7 @@ global $data;
     </div>
 
         <div class="box-bg-white full-width margin_top10">
-            <h3 class="title-box-form brown_bg">About the NJ &nbsp;&nbsp;&nbsp;<i class="icon-legal"></i></br>Criminal Court System</h3>
+            <h3 class="title-box-form brown_bg" style="padding-left: 47px !important">About the NJ <img class="back-image-hammer" src="<?php bloginfo('template_directory'); ?>/images/gavel_icon.png" ></br>Criminal Court System</h3>
         <ul class="sidebar-links sidebar-links-padding">
             <p> Here are some things you should know about our criminal courts and which one will handle your case.</p>
             
