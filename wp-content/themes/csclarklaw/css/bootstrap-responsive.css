@@ -1533,6 +1533,13 @@
       padding-left: 0px;
       padding-right: 0px;
 }
+.address-div-outer {
+    width: 100%;
+    padding-left: 0px;
+}    
+.address-div-left-content{
+    padding-left: 0px;
+}
 .test-word{
     border-left:none;
 }
@@ -1771,6 +1778,13 @@
     .hidden_all{
         display: none !important;
     }
+    .address-div-outer {
+    width: 100%;
+    padding-left: 0px;
+}    
+.address-div-left-content{
+    padding-left: 0px;
+}
 
     .book-cont p {
     color: #fff;

@@ -653,19 +653,20 @@ background-color: #313131;
     margin-left: 10px;
     text-decoration:  none;
     color: #fff;
-    font-family: 'Open Sans', sans-serif ;
-    font-size: 16px;
+    font-family: "Arial Rounded MT", Arial, Helvetica, sans-serif;
+    font-size: 13px;
     text-transform: capitalize;
     border-radius: 5px;
     -webkit-border-radius: 5px;
     background-color: #900704;
+    font-weight: bold;
 }
 .btn-yellow i{
     text-align: center;
     display:inline-block;
     padding: 3px 7px;
     vertical-align: middle;
-    font-size: 15px;
+    font-size: 13px;
 }
 .books_list_check .btn-yellow i {
     border-radius: 100% 100% 100% 100%;
@@ -683,8 +684,8 @@ background-color: #313131;
     margin-top: 24px;
     text-decoration:  none;
     color: #fff;
-    font-family: 'Open Sans', sans-serif ;
-    font-size: 16px;
+    ffont-family: "Arial Rounded MT", Arial, Helvetica, sans-serif;
+    font-size: 13px;
     text-transform: capitalize;
     /*font-weight: bold;*/
     /*background-color: #bd0c31;*/
@@ -1082,7 +1083,7 @@ ul{
     color: #fff;
     font-family: 'Droid Serif', serif !important;
     font-size: 21px;
-    font-weight: bold;
+    font-weight: nornal;
     line-height: 6px;
     margin: 0 0 10px;
     padding: 24px 0 19px;
@@ -1098,7 +1099,7 @@ ul{
     color: #fff;
     font-family: 'Droid Serif', serif !important;
     font-size: 21px;
-    font-weight: bold;
+    font-weight: normal;
     line-height: 6px;
     margin: 0 0 10px;
     padding: 24px 0 19px;
@@ -1881,6 +1882,15 @@ color:#000
 
     width: 70%;
 
+}
+
+.phone .num-header {
+    font-family: 'open Sans',sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    margin-right: 35px;
+    margin-top: 0 !important;
+    text-align: right;
 }
 @-moz-keyframes blinker {  
     0% { opacity: 1.0; }
