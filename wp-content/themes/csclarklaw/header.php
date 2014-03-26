@@ -63,7 +63,7 @@ global $data;
                             </div>
                             <p class="hidden-phone hidden-tablet"><?php echo $data['phone_heading'] ?></p>
                             <h3 class="hidden-phone hidden-tablet"><?php echo $data['phone1'] ?></h3>
-                            <p class="hidden-phone hidden-tablet num-header">Se Habla &nbsp;&nbsp;Espanol</p>
+                            <p class="hidden-phone hidden-tablet num-header">Call Anytime - 24 hour&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Se Habla Espanol</p>
                             <h3 class="hidden-phone hidden-tablet"><?php echo $data['phone2'] ?></h3>
                         </div>
                     </div>

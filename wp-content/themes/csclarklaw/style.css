@@ -302,7 +302,7 @@ background-color: #313131;
 
     text-align: left;
 
-    margin: 13px 0 0 17px;
+    margin: 13px 0 16px 17px;
 
     float: left;
 
@@ -432,7 +432,7 @@ background-color: #313131;
 
     margin-right: 0;
 
-    margin-top: 35px !important;
+    margin-top: 32px !important;
 
     padding: 0;
 
@@ -3778,9 +3778,9 @@ color:#000
 
     font-weight: normal;
 
-    margin-right: 75px;
+/*    margin-right: 75px;*/
 
-    margin-top: 0 !important;
+    margin-top: 11px !important;
 
     text-align: right;
 
