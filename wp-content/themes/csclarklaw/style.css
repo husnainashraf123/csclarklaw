@@ -1835,6 +1835,53 @@ background-color: #E8E8E8;
 padding: 10px;
 color:#000
 }
+#caseform [type="text"] {
+
+    background-color: #FFFFFF;
+
+    border: 1px solid #A5A4A4;
+
+    border-radius: 2px !important;
+
+    box-shadow: 1px 1px 1px 1px #E4E4E4 inset;
+
+    color: #000000;
+
+    height: 30px;
+
+    margin-top: 5px;
+
+    padding: 5px;
+
+    width: 315px;
+
+}
+
+
+
+#caseform textarea {
+
+    background-color: #FFFFFF;
+
+    border: 1px solid #A5A4A4;
+
+    border-radius: 2px !important;
+
+    box-shadow: 1px 1px 1px 1px #E4E4E4 inset;
+
+    color: #000000;
+
+    height: 90px;
+
+    margin-top: 5px;
+
+    padding: 5px;
+
+    resize: none;
+
+    width: 70%;
+
+}
 @-moz-keyframes blinker {  
     0% { opacity: 1.0; }
     50% { opacity: 0.0; }
