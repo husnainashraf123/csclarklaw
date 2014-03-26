@@ -1,0 +1,17 @@
+<h2>A Lead Just Came In [site_url]</h2>
+<table>
+<tbody>
+<tr>
+<td>Name: [name] </td>
+</tr>
+<tr>
+<td>Phone: [phone]</td>
+</tr>
+<tr>
+<td>Email: [email]</td>
+</tr>
+<tr>
+<td>Message: [message]</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,10 @@
+[21-Dec-2013 04:14:15] PHP Fatal error:  Call to undefined function  _e() in /home2/jackieo2/public_html/wp-content/plugins/revslider/views/templates/sliders.php on line 12
+[21-Dec-2013 05:11:27] PHP Fatal error:  Call to undefined function  _e() in /home2/jackieo2/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 19
+[21-Dec-2013 05:34:25] PHP Fatal error:  Call to undefined function  _e() in /home2/jackieo2/public_html/wp-content/plugins/revslider/views/templates/slider_toolbox.php on line 3
+[21-Dec-2013 09:57:31] PHP Fatal error:  Call to undefined function  _e() in /home2/jackieo2/public_html/wp-content/plugins/revslider/views/templates/sliders_list.php on line 5
+[21-Dec-2013 11:15:05] PHP Fatal error:  Call to undefined function  _e() in /home2/jackieo2/public_html/wp-content/plugins/revslider/views/templates/slider_api.php on line 6
+[21-Dec-2013 11:22:28] PHP Fatal error:  Call to undefined function  _e() in /home2/jackieo2/public_html/wp-content/plugins/revslider/views/templates/slides_list.php on line 4
+[21-Dec-2013 11:45:07] PHP Fatal error:  Call to undefined function  _e() in /home2/jackieo2/public_html/wp-content/plugins/revslider/views/templates/edit_layers.php on line 5
+[21-Dec-2013 12:46:10] PHP Fatal error:  Call to undefined function  _e() in /home2/jackieo2/public_html/wp-content/plugins/revslider/views/templates/slides.php on line 8
+[21-Dec-2013 13:03:43] PHP Fatal error:  Call to undefined function  _e() in /home2/jackieo2/public_html/wp-content/plugins/revslider/views/templates/slider_edit.php on line 8
+[21-Dec-2013 13:17:45] PHP Fatal error:  Call to undefined function  _e() in /home2/jackieo2/public_html/wp-content/plugins/revslider/views/templates/slider_new.php on line 8

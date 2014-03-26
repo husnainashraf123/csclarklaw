@@ -1,0 +1,180 @@
+#related-links-content {
+	max-height: 190px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	border-bottom: 1px solid #DFDFDF;
+	border-left: 1px solid #DFDFDF;
+	border-right: 1px solid #DFDFDF;
+	
+	-webkit-border-bottom-left-radius: 3px;
+	-webkit-border-bottom-right-radius: 3px;
+	-moz-border-bottom-left-radius: 3px;
+	-moz-border-bottom-right-radius: 3px;
+	-o-border-bottom-left-radius: 3px;
+	-o-border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+}
+
+#related-links-list li {
+	padding-left: 8px;
+	padding-bottom: 1px;
+	padding-right: 8px;
+	padding-top: 1px;
+	margin: 0;
+	display: block;
+	overflow: hidden;
+	clear: both;
+}
+
+#related-links-selected .selected-title,
+#related-links-list a {
+	float: left;
+	display: block;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	width: 72%;
+}
+
+#related-links-selected .selected-title {
+	width: 62%;
+}
+
+#related-links-list span {
+	float: right;
+	color: #aaa;
+}
+
+#related-links-list a.selected {
+	color: #aaa;
+	text-decoration: none;
+}
+
+
+#related-links-searchfield {
+	width: 100%;
+}
+
+#related-links-search {
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-left: 4px;
+	padding-right: 6px;
+	background-color: #F1F1F1;
+	border-top: 1px solid #DFDFDF;
+	border-left: 1px solid #DFDFDF;
+	border-right: 1px solid #DFDFDF;
+
+	-webkit-border-top-left-radius: 3px;
+	-webkit-border-top-right-radius: 3px;
+	-moz-border-top-left-radius: 3px;
+	-moz-border-top-right-radius: 3px;
+	-o-border-top-left-radius: 3px;
+	-o-border-top-right-radius: 3px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+}
+
+#related-links-list {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin: 0px;
+}
+
+#related-links-list li.loading {
+	padding-left: 26px;
+	background-image: url("../images/loader.gif");
+	background-repeat: no-repeat;
+	background-position-x: 6px;
+	color: #aaa;
+}
+
+#related-links-box .related-links-textfield-placeholder {
+	color: #aaa;
+}
+
+#related-links-custom {
+	padding-top: 12px;
+	padding-bottom: 6px;
+}
+
+#related-links-custom-addurl {
+	display: block;
+	padding-left: 9px;
+}
+
+#related-links-custom-content {
+	display: none;
+	padding-top: 12px;
+	overflow: hidden;	
+}
+
+#related-links-custom-content p {
+	
+}
+
+#related-links-custom-content label {
+	overflow: hidden;
+}
+
+#related-links-custom-content span {
+	padding-top: 5px;
+	float: left;
+	display: block;
+}
+
+#related-links-custom-content .regular-text {
+	width: 80%;
+	float:right;
+}
+
+#related-links-selected ul {
+	list-style-type: none;
+	margin: 0px;
+}
+
+#related-links-selected .related-links-selected {
+	padding-left: 10px;
+	padding-bottom: 7px;
+	padding-right: 10px;
+	padding-top: 7px;
+	border: 1px solid #E6E6E6;
+	line-height: normal;
+	width: auto;
+	height: auto;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-o-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-background-clip: padding-box;
+	-moz-background-clip: padding-box;
+	-o-background-clip: padding-box;
+	background-clip: padding-box;
+	font-weight: bold;
+	overflow: hidden;
+	text-shadow: white 0px 1px 0px;
+	word-wrap: break-word;
+	margin-bottom: 6px;
+	cursor: move;
+}
+
+#related-links-selected .selected-right {
+	float: right;
+	text-align: right;
+	display: block;
+}
+
+#related-links-selected .selected-delete {
+	font-weight: normal;
+	-webkit-text-shadow: none;
+	-moz-text-shadow: none;
+	-o-text-shadow: none;
+	text-shadow: none;
+	margin-left: 6px;
+}
+
+#related-links-selected .selected-type {
+	color: #999;
+	font-weight: normal;
+}

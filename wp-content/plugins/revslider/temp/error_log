@@ -1,0 +1,1 @@
+[20-Dec-2013 21:28:24] PHP Fatal error:  Call to undefined function  site_url() in /home2/jackieo2/public_html/wp-content/plugins/revslider/temp/functions_wordpress.class.php on line 38
