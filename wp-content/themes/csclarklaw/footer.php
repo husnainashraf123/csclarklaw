@@ -86,14 +86,14 @@ global $data;
    
 </form>
         <?php }else{?>
- <div class="modal-header">
+<div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="icon-remove icon-larg white-font"></i></button>
-        <h3 id="book-title-1" class="hidden-phone hidden-tablet"><?php echo $data['book_title_1']; ?></h3>
+        <h3 id="book-title-2" class="hidden-phone hidden-tablet"><?php echo $data['book_title_2']; ?></h3>
 </div>   
 <div class="modal-body popup-form">
-        <p class="white-font hidden-phone hidden-tablet"><?php echo $data['book_subtitle_1']; ?></p>
+        <p class="white-font hidden-phone hidden-tablet"><?php echo $data['book_subtitle_2']; ?></p>
         <div id="ErrorMsg"> </div>
-            <div class="hidden-phone popup-img ">  <img src="<?php echo $data['book1_img']; ?>" /></div>
+            <div class="hidden-phone popup-img ">  <img src="<?php echo $data['book2_img']; ?>" /></div>
             <div class="span3">
                 <p class="bokk_download_txt">Download coming soon<br>Check back shortly</p> 
             </div>

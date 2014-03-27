@@ -14,7 +14,7 @@ global $data;
             <p> Here are some things you should know about our criminal courts and which one will handle your case.</p>
             
         </ul>
-            <h2> <a href="#" class="btn-yellow learn-more btn-pad-learn-more"/>Learn More</a></h2>
+            <h2> <a href="http://www.csclarklaw.com/new-jersey-criminal-court-system" class="btn-yellow learn-more btn-pad-learn-more"/>Learn More</a></h2>
     </div>
     
     <div class="box-bg-white full-width margin_top10">
@@ -38,9 +38,9 @@ global $data;
     </div>
     <div class="full-width margin_top10">
         <div class="facebook_link">
-            <a href="#" target="_blank"><div class="face-book"></div></a>
+            <a href="https://www.facebook.com/pages/Clark-Clark-LLC/189599417718397" target="_blank"><div class="face-book"></div></a>
    
-            <a href="#" target="_blank" ><div class="twitter"></div></a>   
+            <a href="https://twitter.com/NJDefense" target="_blank" ><div class="twitter"></div></a>   
                
         </div>
     </div>

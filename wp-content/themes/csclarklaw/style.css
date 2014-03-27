@@ -1204,7 +1204,7 @@ background-color: #313131;
 
     width: 100%; 
 
-    z-index: -3;
+    z-index: 1;
 
     position: relative;
 
@@ -3824,7 +3824,15 @@ font-weight: normal;
   float: right;
   margin-right: 10px;
 }
-
+.testimonials{
+background-color: #EAE4D2;
+ border-radius: 6px;
+ -moz-border-radius: 6px;
+    -o-border-radius: 6px;
+    -webkit-border-radius: 6px;
+ margin: 10px;
+    padding: 10px;
+}
 @-moz-keyframes blinker {  
 
     0% { opacity: 1.0; }

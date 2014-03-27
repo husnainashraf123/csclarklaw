@@ -527,7 +527,9 @@ website:   	http://www.themepunch.com
 .caption.slidelink a div,
 .tp-caption.slidelink a div {	width:3000px; height:1500px;  background:url(../assets/coloredbg.png) repeat;}
 
-.tp-loader 	{	background:url(../assets/loader.gif) no-repeat 10px 10px; background-color:#fff;  margin:-22px -22px; top:50%; left:50%; z-index:10000; position:absolute;width:44px;height:44px;
+.tp-loader 	{	
+    display: none;
+    background:url(../assets/loader.gif) no-repeat 10px 10px; background-color:#fff;  margin:-22px -22px; top:50%; left:50%; z-index:10000; position:absolute;width:44px;height:44px;
               border-radius: 3px;
               -moz-border-radius: 3px;
               -webkit-border-radius: 3px;
