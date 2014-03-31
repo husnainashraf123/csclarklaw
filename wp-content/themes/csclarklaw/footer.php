@@ -42,7 +42,7 @@ global $data;
         <div id="ErrorMsg"> </div>
             <div class="hidden-phone popup-img ">  <img src="<?php echo $data['book1_img']; ?>" /></div>
             <div class="span3">
-                <p class="bokk_download_txt">Download coming soon<br>Check back shortly</p> 
+                <p class="bokk_download_txt">Download Coming Soon<br> Check Back Shortly</p> 
             </div>
             <div id="respons"></div>
     </div>
@@ -95,7 +95,7 @@ global $data;
         <div id="ErrorMsg"> </div>
             <div class="hidden-phone popup-img ">  <img src="<?php echo $data['book2_img']; ?>" /></div>
             <div class="span3">
-                <p class="bokk_download_txt">Download coming soon<br>Check back shortly</p> 
+                <p class="bokk_download_txt">Download Coming Soon<br> Check Back Shortly</p> 
             </div>
             <div id="respons"></div>
     </div>

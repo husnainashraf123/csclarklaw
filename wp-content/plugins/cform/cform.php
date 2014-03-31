@@ -490,6 +490,7 @@ if (!class_exists("cForm")) {
             $email_temp = @str_replace("[phone]", $formvalues['cformphone'], $email_temp);
             $email_temp = @str_replace("[email]", $formvalues['cformemail'], $email_temp);
             $email_temp = @str_replace("[message]", $formvalues['cformmessage'], $email_temp);
+           // print_r($email_temp);exit;
             $headers = 'MIME-Version: 1.0' . "\r\n";
             $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
             $headers .= "From: $site_url <" . $formvalues['cformemail'] . ">" . "\r\n";

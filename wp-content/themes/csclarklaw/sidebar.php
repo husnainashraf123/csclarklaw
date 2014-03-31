@@ -8,8 +8,11 @@ global $data;
         <?php echo do_shortcode('[cForm]'); ?>
     </div>
 
+    <div class="box full-width margin_top10">
+        <h3 class="title-box-form brown_bg"><a href="http://www.csclarklaw.com/know-your-legal-rights/" class="white-color-text">Know Your Legal Rights</a></h3>
+    </div>    
         <div class="box-bg-white full-width margin_top10">
-            <h3 class="title-box-form brown_bg" style="padding-left: 47px !important">About the NJ <img class="back-image-hammer" src="<?php bloginfo('template_directory'); ?>/images/gavel_icon.png" ></br>Criminal Court System</h3>
+            <h3 class="title-box-form brown_bg" style="padding-left: 11px !important">About the NJ <img class="back-image-hammer" src="<?php bloginfo('template_directory'); ?>/images/gavel_icon.png" ></br>Criminal Court System</h3>
         <ul class="sidebar-links sidebar-links-padding">
             <p> Here are some things you should know about our criminal courts and which one will handle your case.</p>
             

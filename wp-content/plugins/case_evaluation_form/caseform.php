@@ -597,7 +597,7 @@ if (!class_exists("caseForm")) {
                         <input type = "text" autocomplete = "off" id = "caseformphone" name = "caseformphone"></span>
                      </p>
                       <p><?php
-                        $this->EmptyFieldCheck("How do you find Us?", $caseForm_options['findlabel']);
+                        $this->EmptyFieldCheck("How did you find us?", $caseForm_options['findlabel']);
                         $this->get_required('findreq')
                         ?> <br>
                         <span>
@@ -813,7 +813,7 @@ if (!class_exists("caseForm")) {
                 $caseformValue['caseformstatement'] = $_POST['caseformstatement'];
                 $caseformValue['caseformcomments'] = $_POST['caseformcomments'];
                 $phone = preg_replace("/[^0-9,.]/", "", $caseformValue['caseformphone']);
-                    print_r($caseformValue);exit;
+//                    print_r($caseformValue);exit;
                 //$phone_len = strlen($phone);
 
                 if (filter_var($email_address, FILTER_VALIDATE_EMAIL) && $phone != '' && strlen($phone) == 10 && !empty($caseformValue['caseformname']) && !empty($caseformValue['caseformemail'])) {
